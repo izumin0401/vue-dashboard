@@ -1,2 +1,4 @@
 # vue-dashboard
-Vue.jsダッシュボード
+
+## Overview
+Vue.js Dashboard
